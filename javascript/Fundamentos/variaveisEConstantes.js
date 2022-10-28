@@ -6,7 +6,7 @@ let b = 4
  * O simbulo de igual é atribuição (a recebe 3)
  *Seguido do valor
  *  */ 
-
+ // EVITE NOMES GENÉRIOCOS E SIGLAS
  // CRIE VARIAVEIS USANDO LET
 
  let nome = 'lucas' // Pode mudar o valor durante a execução
